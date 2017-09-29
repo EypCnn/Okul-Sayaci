@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3498db</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="mavi">#3498db</color>
+    <color name="koyumavi">#2980b9</color>
+    <color name="yesil">#2ecc71</color>
+    <color name="koyuyesil">#27ae60</color>
+    <color name="turkuaz">#1abc9c</color>
+    <color name="koyuturkuaz">#16a085</color>
+    <color name="mor">#9b59b6</color>
+    <color name="koyumor">#8e44ad</color>
+    <color name="kirmizi">#e74c3c</color>
+    <color name="koyukirmizi">#c0392b</color>
+    <color name="turuncu">#e67e22</color>
+    <color name="koyuturuncu">#d35400</color>
+    <color name="sari">#f1c40f</color>
+    <color name="koyusari">#f39c12</color>
+    <color name="gradyan">#ff6a00</color>
+</resources>
