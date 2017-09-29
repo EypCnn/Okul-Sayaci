@@ -1,2 +1,1 @@
 # Okul-Sayaci
-Okul Sayacı
