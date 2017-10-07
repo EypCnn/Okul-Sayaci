@@ -1,6 +1,7 @@
 package com.eypcnn.okulsayac;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
@@ -82,4 +83,8 @@ public class MainActivity extends AppCompatActivity {
         return endDate.getTime() - currentDate.getTime();
     }
 
+    public void instagramphey(View view) {
+        Intent browserIntent =new Intent( Intent.ACTION_VIEW, Uri.parse("https://www.instagram.com/eyupcanyilmaz/") );
+        startActivity( browserIntent );
     }
+}
