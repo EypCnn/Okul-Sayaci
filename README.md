@@ -1,6 +1,6 @@
 # Okul Sayacı
 # PlayStore Link
-* https://play.google.com/store/apps/details?id=com.eypcnn.okulsayac
+* https://play.google.com/store/apps/details?id=com.eypcnn.okulsayaci
 
 ![photo](https://lh3.googleusercontent.com/IAoG_5HIYFxsl4HAR4dLixC4gtXQIdR9juRwxWcCN-Vynh-VeZfU8f-_gV4EiOrLCro3=w300-rw)
 
